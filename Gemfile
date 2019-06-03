@@ -42,6 +42,7 @@ group :development, :test do
   gem 'shoulda-matchers'
   gem 'activesupport'
   gem 'active_designer'
+  gem 'slim-rails'
 end
 
 group :development do
